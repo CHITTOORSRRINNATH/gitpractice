@@ -1,2 +1,2 @@
-# gitpractice<br>
+# gitpractice
 Started practicing Git
